@@ -1,0 +1,11 @@
+slno;conv;answers;qval
+0;1;You can raise the ticket using the below Link.;0.0
+1;1;Your status has been changed to ‘In Progress’.;0.75
+2;1;Your status is in 'Approval' stage.;0.5
+3;1;Your status is in 'Completed' stage.;0.5
+4;1; Your request is just created.;-0.5
+5;2;You can apply for WFH only for <4 days.;0.0
+6;2;You do not have permission to access the link.;0.0
+7;2;You cannot install the software as it requires admin previlige.;0.0
+8;2;You can access the link. Make sure report any incidents.;0.0
+9;2;The incident will be reported.;0.0
