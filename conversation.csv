@@ -1,9 +1,9 @@
 slno;conv;answers;qval
-0;1;You can raise the ticket using the below Link.;0
-1;1;Your status has been changed to ‘In Progress’.;0
-2;1;Your status is in 'Approval' stage.;0
-3;1;Your status is in 'Completed' stage.;0
-4;1; Your request is just created.;0
+0;1;Your ticket is 'In Progress'. You will be notified via e-mail on the progress.;0
+1;1;Your ticket has been changed to ‘In Progress’. Please visit the link http://serviceticket/12334444 for further details;0
+2;1;Your ticket has been accepted by the service desk Yestrday. The status is 'In Progress'. At present, ABC is looking into it. You can view further details in the link http://serviceticket/12334444 for more details.;0
+3;1;Your ticket is in 'In Progress'. Please contact ABC formore details.;0
+4;1; Please visit http://serviceticket/12334444 for details of your ticket.;0
 5;2;You can apply for WFH only for <4 days.;0
 6;2;You do not have permission to access the link.;0
 7;2;You cannot install the software as it requires admin previlige.;0
